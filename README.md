@@ -1,7 +1,7 @@
 # morpho
 
-- ccid 1.4.3-1morpho (USB Chip/Smart Card Interface Device driver) by SAFRAN
+These packages were made available by [SAFRAN](http://www.morpho.com/) client support.
 
-- SafeSignIC 3.0.101 (Middleware) by SAFRAN
+- ccid 1.4.3-1morpho (USB Chip/Smart Card Interface Device driver)
 
-These packages were made available by SAFRAN client support.
+- SafeSignIC 3.0.101 (Middleware)
